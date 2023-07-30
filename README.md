@@ -1,2 +1,1 @@
-# Prepcurse-Henrry
-este es un repositorio de prueba del modulo 2 de henrry 
+este es un proyecto de prueba de como crear un repositorio en la nuebe creado en git hub y clonarlo a mi escritorio local
